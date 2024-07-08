@@ -28,6 +28,6 @@ Implementation for the ECCV 2024 paper "Compositional Substitutivity of Visual R
 
 **Format:**
 
-1. "vqav2-sps-v2-questions-_X_-val-_Y_.json" is the question json for the val-_Y_ split of _X_ SPS,  where _X_ $\in$ {word, visual entity, referent}, and _Y_ $\in$ {A, B}.
-2. "vqav2-sps-v2-annotations-_X_-val-_Y_.json" is the annotation json for the val-_Y_ split of _X_ SPS,  where _X_ $\in$ {word, visual entity, referent}, and _Y_ $\in$ {A, B}.
+1. "vqav2-sps-questions-_X_-val-_Y_.json" is the question json for the val-_Y_ split of _X_ SPS,  where _X_ $\in$ {word, visual entity, referent}, and _Y_ $\in$ {A, B}.
+2. "vqav2-sps-annotations-_X_-val-_Y_.json" is the annotation json for the val-_Y_ split of _X_ SPS,  where _X_ $\in$ {word, visual entity, referent}, and _Y_ $\in$ {A, B}.
 3. "images_for_visual_enity_sps.zip" contains the images for "vqav2-sps-questions-visual-entity-val-A&B.json", for each image, "_image_id_.jpg" is used for model input, and "_image_id_\_hl.jpg" high lights the substituted objects.

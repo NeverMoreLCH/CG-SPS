@@ -1,6 +1,5 @@
 # Compositional Substitutivity of Visual Reasoning for Visual Question Answering
 Implementation for the ECCV 2024 paper "Compositional Substitutivity of Visual Reasoning for Visual Question Answering"
-
 [paper link](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06434.pdf)
 
 ![Example Image](https://github.com/NeverMoreLCH/CG-SPS/blob/main/framework-fig.png)
